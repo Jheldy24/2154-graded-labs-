@@ -1,0 +1,25 @@
+image,label,split,condition,width,height,authorized,licence
+inspection_000.png,0,train,dim,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_001.png,1,train,reference,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_002.png,0,train,reference,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_003.png,1,train,reference,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_004.png,0,train,reference,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_005.png,1,train,dim,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_006.png,0,train,reference,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_007.png,1,train,reference,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_008.png,0,train,reference,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_009.png,1,train,reference,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_010.png,0,train,dim,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_011.png,1,train,reference,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_012.png,0,train,reference,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_013.png,1,train,reference,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_014.png,0,validation,reference,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_015.png,1,validation,dim,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_016.png,0,validation,reference,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_017.png,1,validation,reference,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_018.png,0,validation,reference,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_019.png,1,test,reference,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_020.png,0,test,dim,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_021.png,1,test,reference,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_022.png,0,test,reference,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
+inspection_023.png,1,test,reference,96,96,True,CC0-1.0-equivalent fictional course-generated synthetic data
