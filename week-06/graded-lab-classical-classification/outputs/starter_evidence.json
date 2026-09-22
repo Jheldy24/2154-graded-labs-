@@ -1,0 +1,10 @@
+{
+  "status": "starter_ready",
+  "records": 24,
+  "split_counts": {
+    "train": 14,
+    "validation": 5,
+    "test": 5
+  },
+  "note": "This verifies supplied data only. Implement and defend the assessed classification method."
+}
