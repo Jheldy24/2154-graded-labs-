@@ -2,7 +2,7 @@
 
 **Individual assessment — one submission — 5% of the course grade**
 
-This lab asks you to build and explain a small image-segmentation workflow for supplied fictional inspection images. You will use Python, NumPy, and OpenCV in VS Code. You do not need a camera, personal images, a GPU, Streamlit, or an external service.
+This lab asks you to build and explain a small image-segmentation workflow for supplied fictional inspection images. You will use Python, NumPy, and OpenCV in VS Code with the supplied files.
 
 ## What you are expected to do
 
