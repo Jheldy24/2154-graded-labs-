@@ -1,0 +1,11 @@
+image,split,condition,label,otsu_foreground_pixels,otsu_components,hsv_red_pixels,hsv_red_components
+inspection_014.png,validation,reference,0,720,2,68,1
+inspection_015.png,validation,dim,1,736,2,84,1
+inspection_016.png,validation,reference,0,756,2,104,1
+inspection_017.png,validation,reference,1,742,2,90,1
+inspection_018.png,validation,reference,0,720,2,68,1
+inspection_019.png,test,reference,1,738,2,86,1
+inspection_020.png,test,dim,0,742,2,90,1
+inspection_021.png,test,reference,1,758,2,106,1
+inspection_022.png,test,reference,0,739,2,87,1
+inspection_023.png,test,reference,1,720,2,68,1

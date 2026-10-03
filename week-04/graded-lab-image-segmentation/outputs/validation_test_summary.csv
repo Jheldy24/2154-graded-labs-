@@ -1,0 +1,11 @@
+image,split,pixels_before,pixels_after,components_before,components_after
+inspection_014.png,validation,720,720,2,2
+inspection_015.png,validation,736,736,2,2
+inspection_016.png,validation,756,756,2,2
+inspection_017.png,validation,742,742,2,2
+inspection_018.png,validation,720,720,2,2
+inspection_019.png,test,738,738,2,2
+inspection_020.png,test,742,742,2,2
+inspection_021.png,test,758,758,2,2
+inspection_022.png,test,739,739,2,2
+inspection_023.png,test,720,720,2,2
