@@ -1,0 +1,20 @@
+{
+  "selected_pair": {
+    "image_a": "inspection_017.png",
+    "image_b": "inspection_018.png"
+  },
+  "baseline_raw_matches": 18,
+  "cross_check_matches": 8,
+  "lowe_ratio_matches": 8,
+  "comparison": {
+    "cross_check_filter": {
+      "name": "cross-check matching",
+      "matches": 8
+    },
+    "lowe_ratio_test": {
+      "name": "Lowe ratio test",
+      "matches": 8,
+      "threshold": 0.75
+    }
+  }
+}

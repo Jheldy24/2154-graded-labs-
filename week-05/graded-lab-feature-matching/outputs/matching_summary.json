@@ -1,0 +1,39 @@
+{
+  "image_a": "inspection_017.png",
+  "image_b": "inspection_018.png",
+  "nfeatures": 500,
+  "keypoints": {
+    "image_a": 18,
+    "image_b": 23
+  },
+  "descriptor_details": {
+    "image_a_shape": [
+      18,
+      32
+    ],
+    "image_b_shape": [
+      23,
+      32
+    ],
+    "type": "ORB binary descriptors"
+  },
+  "matching_method": {
+    "name": "BFMatcher",
+    "norm": "cv2.NORM_HAMMING",
+    "distance_metric": "Hamming distance"
+  },
+  "filter": {
+    "name": "cross-check matching",
+    "parameter_value": "reverse-match validation",
+    "before_filter": 18,
+    "after_filter": 8
+  },
+  "distance_summary": {
+    "raw_min": 10.0,
+    "raw_median": 31.0,
+    "raw_max": 51.0,
+    "filtered_min": 16.0,
+    "filtered_median": 30.5,
+    "filtered_max": 40.0
+  }
+}
