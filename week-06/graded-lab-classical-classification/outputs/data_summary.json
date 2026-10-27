@@ -1,0 +1,22 @@
+{
+  "total_records": 24,
+  "splits": {
+    "train": 14,
+    "validation": 5,
+    "test": 5
+  },
+  "label_counts": {
+    "train": {
+      "0": 7,
+      "1": 7
+    },
+    "validation": {
+      "0": 3,
+      "1": 2
+    },
+    "test": {
+      "0": 2,
+      "1": 3
+    }
+  }
+}

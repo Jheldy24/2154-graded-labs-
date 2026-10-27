@@ -1,0 +1,54 @@
+{
+  "baseline": {
+    "validation": {
+      "method": "Baseline",
+      "split": "validation",
+      "accuracy": 0.6,
+      "precision_class_1": 0.0,
+      "recall_class_1": 0.0,
+      "f1_class_1": 0.0,
+      "tn": 3,
+      "fp": 0,
+      "fn": 2,
+      "tp": 0
+    },
+    "test": {
+      "method": "Baseline",
+      "split": "test",
+      "accuracy": 0.4,
+      "precision_class_1": 0.0,
+      "recall_class_1": 0.0,
+      "f1_class_1": 0.0,
+      "tn": 2,
+      "fp": 0,
+      "fn": 3,
+      "tp": 0
+    }
+  },
+  "classifier": {
+    "validation": {
+      "method": "LogisticRegression",
+      "split": "validation",
+      "accuracy": 1.0,
+      "precision_class_1": 1.0,
+      "recall_class_1": 1.0,
+      "f1_class_1": 1.0,
+      "tn": 3,
+      "fp": 0,
+      "fn": 0,
+      "tp": 2
+    },
+    "test": {
+      "method": "LogisticRegression",
+      "split": "test",
+      "accuracy": 1.0,
+      "precision_class_1": 1.0,
+      "recall_class_1": 1.0,
+      "f1_class_1": 1.0,
+      "tn": 2,
+      "fp": 0,
+      "fn": 0,
+      "tp": 3
+    }
+  }
+}
